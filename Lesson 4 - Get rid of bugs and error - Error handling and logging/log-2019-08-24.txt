@@ -1,0 +1,4 @@
+2019-08-24 10:25:40,905 - root - ERROR -<ipython-input-7-042096244f6a>- Error in application
+2019-08-24 10:26:30,856 - root - ERROR -<ipython-input-8-45f786e13a2c>- Error in application
+2019-08-24 10:27:05,989 - root - ERROR -<ipython-input-10-45f786e13a2c>- Error in application
+2019-08-24 10:27:05,989 - root - ERROR -<ipython-input-10-45f786e13a2c>- Error in application
